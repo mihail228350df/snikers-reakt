@@ -3,7 +3,7 @@ function App() {
     <div className="wrapper">
       <header>
         <div className="headerLeft">
-         <svg />
+         <img width={40} height={40} src= "/img/logo.png" />
          <div className="headerInfo">
            <h3>React Sneakers</h3>
            <p>Магазин лутших кросовок</p>
